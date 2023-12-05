@@ -21,5 +21,6 @@ This project is a Form Builder application built using the MERN (MongoDB, Expres
 
 1. Clone the repository:
 
-   git clone https://github.com/AmAyush18/Formse.git
-   cd Formse
+   <code>git clone https://github.com/AmAyush18/Formse.git</code>
+   <br />
+   <code>cd Formse</code>
